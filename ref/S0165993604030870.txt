@@ -1,0 +1,11 @@
+Hideaki Koizumi, Atsushi Maki, Tsuyoshi Yamamoto, Hiroki Sato, Yukari Yamamoto, Hideo Kawaguchi,
+Non-invasive brain-function imaging by optical topography,
+TrAC Trends in Analytical Chemistry,
+Volume 24, Issue 2,
+2005,
+Pages 147-156,
+ISSN 0165-9936,
+https://doi.org/10.1016/j.trac.2004.11.002.
+(http://www.sciencedirect.com/science/article/pii/S0165993604030870)
+Abstract: Cerebral cortex refers to the near-surface regions of the brain. While these regions are known to support the complex brain functions of man, the functions are still not well understood. However, non-invasive techniques for forming images of changing regional blood flow (rCBF) or blood volume (rCBV) in the cerebral cortex have recently become available. One of the techniques, called optical topography, shows promise not only for medical treatment but also for learning- and education-related studies. The principle is to irradiate the head with near-infrared light and analyze reflection and scattering at the brain's surface.
+Keywords: Optical topography; Brain imaging; Non invasive analysis; Near infrared spectroscopy; Brain function
